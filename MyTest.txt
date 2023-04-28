@@ -2,3 +2,4 @@ test file
 A new line to test Pipeline
 extra line
 Today is Friday !!!
+Added changes to Dockerfile
